@@ -3,6 +3,7 @@
 }
 
 body {
+    zoom: .8;
     &::-webkit-scrollbar{
         display: none;
     }
